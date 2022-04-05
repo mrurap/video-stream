@@ -45,7 +45,7 @@ async def cbstart(_, query: CallbackQuery):
                 ],
                 [
                     InlineKeyboardButton(
-                        "🌐 Source Code", url="https://t.me/LinkeProSup"
+                        "🌐 Source Code", url="https://t.me/WorldPlayerMusic"
                     )
                 ],
             ]
